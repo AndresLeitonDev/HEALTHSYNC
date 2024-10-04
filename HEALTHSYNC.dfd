@@ -1,0 +1,193 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+12
+profesional1
+20
+'Jose_Armando_Perea'
+12
+profesional2
+24
+'Denis_del_Carmen_Neira'
+12
+profesional3
+27
+'Manuel_Esteban_Matabanjoy'
+6
+3
+22
+profesionalSelecionado
+12
+profesional1
+22
+profesionalSelecionado
+12
+profesional2
+22
+profesionalSelecionado
+12
+profesional3
+4
+1
+67
+'Bienvenido a HEALTHSYNC, Cuidamos tu tiempo, protegemos tu salud.'
+4
+1
+57
+'Por favor, ingrese número de identificación del Usuario'
+5
+1
+14
+identificacion
+4
+1
+38
+'Bienvenido Sr. Tyrone José González.'
+4
+1
+32
+'Tipo de cita que desea agendar'
+5
+1
+4
+cita
+4
+1
+121
+'Ingrese el profesional de preferencia (1 para ', profesional1, ', 2 para ', profesional2, ', 3 para ', profesional3, ')'
+5
+1
+9
+seleccion
+7
+0
+1
+13
+seleccion = 1
+7
+0
+1
+13
+seleccion = 2
+7
+0
+1
+13
+seleccion = 3
+4
+1
+61
+'Selección inválida, se asignará el profesional por defecto.'
+6
+1
+23
+profesionalSeleccionado
+12
+profesional1
+13
+6
+1
+23
+profesionalSeleccionado
+12
+profesional3
+13
+13
+13
+13
+6
+1
+23
+profesionalSeleccionado
+9
+seleccion
+13
+4
+1
+48
+'Fecha de cita preferida entre comillas simples'
+5
+1
+5
+fecha
+4
+1
+80
+'Ingrese la hora en la que será su cita entre comillas simples, despúes (am/pm)'
+5
+1
+4
+hora
+4
+1
+62
+'Ingrese la categoría del paciente entre comillas (A, B, o C)'
+5
+1
+9
+categoria
+7
+0
+1
+15
+categoria = 'A'
+7
+0
+1
+15
+categoria = 'B'
+7
+0
+1
+15
+categoria = 'C'
+13
+6
+1
+11
+valorapagar
+5
+47700
+13
+13
+6
+1
+11
+valorapagar
+5
+18200
+13
+13
+6
+1
+11
+valorapagar
+4
+4200
+13
+4
+1
+43
+'Ingrese el número de teléfono del Usuario'
+5
+1
+8
+telefono
+4
+1
+67
+'Ingrese el correo electrónico del paciente entre comillas simples'
+5
+1
+6
+correo
+4
+1
+377
+'Sr. Tyrone José González, su cita de ', cita, ' con el profesional ', profesionalSeleccionado, ' queda agendada para el día ', fecha, ' a las ', hora, '. Por favor llegar 20 minutos antes y cancelar su cuota moderadora por un valor de ', valorapagar, '. Recuerde cancelar o reprogramar su cita con 2 horas de anticipación. HEALTHSYNC, Cuidamos tu tiempo, protegemos tu salud.'
+1
